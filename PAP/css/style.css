@@ -1,0 +1,19 @@
+.logo {
+    width: 220px;
+}
+
+.texto-grande {
+    font-family: "Calibri", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.texto-grande-2 {
+    font-family: "Calibri", sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.espaco {
+    padding-top: 50px;
+}
